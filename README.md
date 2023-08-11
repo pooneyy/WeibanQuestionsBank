@@ -26,19 +26,19 @@
 
   - 点击“考试安排”
 
-    <img src="http://png.eot.ooo/i/2022/09/10/631cadd79c44f.png" alt="1.png" style="zoom:67%;" />
+
 
   - 点击“考试记录”
 
-    <img src="http://png.eot.ooo/i/2022/09/10/631cadd88c9cf.png" alt="2.png" style="zoom: 67%;" />
+
 
   - 点击“作答明细”
 
-    <img src="http://png.eot.ooo/i/2022/09/10/631cadd96605b.png" alt="3.png" style="zoom:67%;" />
+
 
   - 浏览器进入开发者模式，复制响应文本，以UTF-8的编码方式保存为`data.json`：
 
-    <img src="http://png.eot.ooo/i/2022/09/10/631cb1cb3f34d.png" alt="4.png" style="zoom: 67%;" />
+
 
   - 运行`importOneReviewPaper.py`
 

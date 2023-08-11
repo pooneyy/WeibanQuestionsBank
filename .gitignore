@@ -1,5 +1,7 @@
 
 build
 dist
+env
 __pycache__
 *.spec
+*.bat

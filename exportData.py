@@ -619,11 +619,7 @@ htmlContent_Tail = r'''
 '''
 
 def loadQuestionsBankData():
-    try:
-        with open("Wei-ban_Questions_Bank.json", "r+", encoding='utf8') as file:
-            data = json.load(file)
-    except:data = 0
-    return data
+    with open("Wei-ban_Questions_Bank.json", "r+", encoding='utf8') as file:return json.load(file)
 
 def exportAsMd():
     global mdContent_1, mdContent_2
@@ -656,17 +652,16 @@ def exportAsHtml():
     print('已导出为 weibanQuestionBank.html')
 
 def main():
-    try:option = int(input('选择导出方式：'))
-    except:option = 0
-    if option == 1:exportAsMd()
-    elif option == 2:exportAsHtml()
-    else:
-        print("未知的选项，请重新选择")
-        main()
+    try:
+        try:option = int(input('导出数据\n1：Markdown\t2：Html\n选择导出方式：'))
+        except:option = 0
+        if option == 1:exportAsMd()
+        elif option == 2:exportAsHtml()
+        else:
+            print("未知的选项，请重新选择")
+            main()
+    except FileNotFoundError:print("未找到题库数据。缺少 Wei-ban_Questions_Bank.json")
 
 if __name__ =='__main__':
-    if os.path.isfile('Wei-ban_Questions_Bank.json'):
-        print("导出数据\n1：Markdown\t2：Html")
-        main()
-    else:print("未找到题库数据。缺少 Wei-ban_Questions_Bank.json")
+    main()
     os.system("pause")
