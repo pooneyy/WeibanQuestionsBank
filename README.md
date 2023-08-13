@@ -4,7 +4,7 @@
 
 ### 查看题库
 
-[markdown](https://github.com/pooneyy/weibanQuestionsBank/blob/master/weibanQuestionBank.md)、[html](http://htmlpreview.github.io/?https://github.com/pooneyy/weibanQuestionsBank/blob/master/weibanQuestionBank.html)
+[markdown](https://github.com/pooneyy/weibanQuestionsBank/blob/main/weibanQuestionBank.md)、[html](http://htmlpreview.github.io/?https://github.com/pooneyy/weibanQuestionsBank/blob/main/weibanQuestionBank.html)
 
 ### 导入题库
 
@@ -38,7 +38,7 @@
 
   - 浏览器进入开发者模式，复制响应文本，以UTF-8的编码方式保存为`data.json`：
 
-
+    ![](https://p.ananas.chaoxing.com/star3/origin/a2f749c5906ec2cf694c834f6468b0cf.png)
 
   - 运行`importOneReviewPaper.py`
 
