@@ -38,7 +38,7 @@
 
   - 浏览器进入开发者模式，复制响应文本，以UTF-8的编码方式保存为`data.json`：
 
-    ![](https://p.ananas.chaoxing.com/star3/origin/a2f749c5906ec2cf694c834f6468b0cf.png)
+    ![](https://s2.loli.net/2023/08/14/8hGVA34uIw1Cyfk.jpg)
 
   - 运行`importOneReviewPaper.py`
 
