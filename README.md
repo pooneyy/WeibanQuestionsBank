@@ -5,6 +5,7 @@
 
 ### 写在前面的话
 克隆项目到本地，你获取到的题目信息将会与`Wei-ban_Questions_Bank.json`合并。希望你能将更新后的题库[Pull requests](https://github.com/pooneyy/weibanQuestionsBank/pulls)提交到本仓库。
+
 如果你没有github账户，或者不知道如何提交PR，你可以向邮箱 jiadeland@gmail.com 致信，贡献你的作答明细。
 
 为了完善本题库，期望能得到你的帮助！在此表示万分感谢。
