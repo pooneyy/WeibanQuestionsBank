@@ -42,7 +42,9 @@
 
 运行`exportData.py`，按照提示操作。
 
-### 更新日志
+### 代码更新日志
 
 - 2023.09.17
   - 更新`importData.py`获取题库的方式，登录相关的代码来自[Coaixy/weiban-tool](https://github.com/Coaixy/weiban-tool)
+  - 题库开始记录选项id
+

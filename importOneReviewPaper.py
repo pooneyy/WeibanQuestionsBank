@@ -26,11 +26,13 @@ def getPaperDetails(data):
         userQuestionsBank[i['id']] = {}
         userQuestionsBank[i['id']]['question'] = i['title']
         userQuestionsBank[i['id']]['answer'] = []
+        userQuestionsBank[i['id']]['answerIds'] = []
         userQuestionsBank[i['id']]['type'] = i['type']
         userQuestionsBank[i['id']]['typeLabel'] = i['typeLabel']
         for j in i['optionList']:
             if j['isCorrect'] == 1:
                 userQuestionsBank[i['id']]['answer'].append(j['content'])
+                userQuestionsBank[i['id']]['answerIds'].append(j['id'])
     return userQuestionsBank
 
 def main():
