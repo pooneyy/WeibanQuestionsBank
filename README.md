@@ -16,15 +16,9 @@
 
 ### 导入题库
 
-- 方式一：通过输入账号信息直接获取账号作答记录
+- 方式一：运行`importData.py`，通过输入账号信息直接获取账号作答记录
 
-  运行`importData.py`，输入账号信息即可，账号信息形如
-
-  ```text
-  {"token":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx","userId":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx","tenantCode":"00000001","userProjectId":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"}
-  ```
-
-  获取方式参考[pooneyy/weiban-tool: 安全微伴自动刷课助手 (github.com)](https://github.com/pooneyy/weiban-tool)
+  ![](https://telegraph-image1.pages.dev/file/b33c8d871af197f43ac71.png)
 
 - 方式二：通过现有的作答记录
 
@@ -34,17 +28,11 @@
 
   - 点击“考试安排”
 
-
-
   - 点击“考试记录”
-
-
 
   - 点击“作答明细”
 
-
-
-  - 浏览器进入开发者模式，复制响应文本，以UTF-8的编码方式保存为`data.json`：
+  - 浏览器进入开发者模式，复制`reviewPaper.do`的响应文本，以UTF-8的编码方式保存为`data.json`：
 
     ![](https://s2.loli.net/2023/08/14/8hGVA34uIw1Cyfk.jpg)
 
@@ -53,3 +41,8 @@
 ### 导出题库
 
 运行`exportData.py`，按照提示操作。
+
+### 更新日志
+
+- 2023.09.17
+  - 更新`importData.py`获取题库的方式，登录相关的代码来自[Coaixy/weiban-tool](https://github.com/Coaixy/weiban-tool)
