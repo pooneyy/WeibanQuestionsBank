@@ -47,4 +47,7 @@
 - 2023.09.17
   - 更新`importData.py`获取题库的方式，登录相关的代码来自[Coaixy/weiban-tool](https://github.com/Coaixy/weiban-tool)
   - 题库开始记录选项id
+- 2023.09.18
+  - 支持从已结束的学习项目导入作答记录
+
 
