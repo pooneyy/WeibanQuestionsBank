@@ -3,6 +3,8 @@
     <img src="https://badges.toozhao.com/badges/01HAB9X2TMMS01Y9KR8PSE6YH1/green.svg" alt="Visitors"/>
 </p>
 
+相关项目：安全微伴题库 | [安全微伴自动刷课助手](https://github.com/pooneyy/weiban-tool)
+
 ### 写在前面的话
 克隆项目到本地，你获取到的题目信息将会与`Wei-ban_Questions_Bank.json`合并。希望你能将更新后的题库[Pull requests](https://github.com/pooneyy/weibanQuestionsBank/pulls)提交到本仓库。
 
@@ -50,4 +52,8 @@
 - 2023.09.18
   - 支持从已结束的学习项目导入作答记录
 
+### 题库更新日志
 
+- 2023.09.21
+  - 新增了41个条目，现有条目376项。
+  - 尽量补全了一些以往收录的题目的正确答案的选项id。现有327项条目记录（或补充）了正确答案的选项id，有49项条目找不到原始记录，无法补全正确答案的选项id。
