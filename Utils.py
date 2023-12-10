@@ -71,8 +71,9 @@ class Parse:
             }
             response = requests.post(url, data=payload, headers=self.headers)
             data = json.loads(response.text)
-            for i in data['data']:
-                self.userExamIdList.append(i['id'])
+            if data['code'] != '-1':
+                for i in data['data']:
+                    self.userExamIdList.append(i['id'])
 
     def getPaperDetails(self):
         '''返回一个字典，包含某一张试卷的详情'''
@@ -214,8 +215,7 @@ def getUserQuestionsBank():
         questionsBankParse = Parse(login_State)
         questionsBankParse.get_Project_Info()
         questionsBankParse.getExamPlanId()
-        try:questionsBankParse.getUserExamId()
-        except KeyError:print("\033[0;31;40m输入的账户未找到作答记录\033[0m")
+        questionsBankParse.getUserExamId()
         userQuestionsBank = questionsBankParse.getPaperDetails()
-    print(f"从{account['id']} 的账户中导入 {len(userQuestionsBank)} 条答题记录。请接着",end='')
+    print(f"从 {account['id']} 的账户中导入 {len(userQuestionsBank)} 条答题记录。请接着",end='')
     return userQuestionsBank
