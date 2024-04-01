@@ -12,6 +12,8 @@
 
 为了完善本题库，期望能得到你的帮助！在此表示万分感谢。
 
+此外，有相当多内容雷同的条目，但是它们的id不同，以id作为唯一标识，故视作不同的条目，例如`be6c8cdd-458c-4597-bc68-1762176ace30`与`0c443332-f65b-4b58-aadc-23fb9af6a805`。
+
 ### 查看题库
 
 [markdown](https://github.com/pooneyy/weibanQuestionsBank/blob/main/weibanQuestionBank.md)、[html](http://htmlpreview.github.io/?https://github.com/pooneyy/weibanQuestionsBank/blob/main/weibanQuestionBank.html)
@@ -65,3 +67,6 @@
 - 2024.01.04
   - 新增了 1719 个条目，现有条目 2360 项。
   - 现有 2357 项条目记录（或补充）了正确答案的选项id，剩余 3 项未补全正确选项id。
+- 2024.04.01
+  - 新增了 695 个条目，现有条目 3055 项。
+  - 现仅剩余 1 项未补全答案id，其id为`560b88df-97ec-43e6-88e3-f2beb231ed68`。
