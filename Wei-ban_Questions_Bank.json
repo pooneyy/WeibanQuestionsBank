@@ -22304,6 +22304,391 @@
         "type": 1,
         "typeLabel": "单选题"
     },
+    "ac821965-393a-430f-b48a-a88cfa3fa04c": {
+        "question": "新冠病毒感染饮食营养专家建议：每天摄入高蛋白类食物，包括鱼、肉、蛋、奶、豆类和坚果，在平时的基础上加量,不吃野生动物。（ ）",
+        "answer": [
+            "对"
+        ],
+        "answerIds": [
+            "eb0ff8e9-7769-472a-b14f-0bc3ba088f3a"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c3a194d6-03d8-4049-9c6a-731f8784229d": {
+        "question": "使用安全锤打开车窗的话，敲打哪里好呢？",
+        "answer": [
+            "车窗的角落。"
+        ],
+        "answerIds": [
+            "ff217433-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "f00ab681-20e6-4a3c-b6ef-0df38af21ca4": {
+        "question": "国家安全机关的工作人员依法执行国家安全工作任务时，经出示相应证件，有权（）中国公民或者境外人员的身份证明。 ",
+        "answer": [
+            "查验"
+        ],
+        "answerIds": [
+            "ff3c1494-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "ebddc523-18c0-4619-9705-5ce578ec175e": {
+        "question": "维护国家主权、统一和领土完整是（）的共同义务。 ",
+        "answer": [
+            "包括港澳同胞和台湾同胞在内的全中国人民"
+        ],
+        "answerIds": [
+            "ff7b74fc-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "f1c6a256-fda3-49d1-b986-2dfe6f142c7d": {
+        "question": "路边用化工桶烤的红薯能吃吗？为什么？",
+        "answer": [
+            "不能吃，废弃的化工桶里残留着很多对身体有害的化学物质。"
+        ],
+        "answerIds": [
+            "ff1ff195-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c1141c38-fe3d-454c-a1d0-2bb4fd8bb494": {
+        "question": "食物中毒的原因有：",
+        "answer": [
+            "毒素。"
+        ],
+        "answerIds": [
+            "ff25ed1b-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "abd86cd6-37d2-48c9-aaea-268d4141da35": {
+        "question": "新型冠状病毒肺炎的治疗场所为（ ）",
+        "answer": [
+            "应在具备有效隔离条件和防护条件的医院隔离治疗，危重症病例应尽早收入ICU治疗"
+        ],
+        "answerIds": [
+            "ff29d4c2-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "fb11060c-0a4a-4df5-90a4-26d2cf29c05f": {
+        "question": "设计上，按照对佩戴者自身防护能力排名（从高到低）：N95口罩＞外科口罩＞普通医用口罩＞普通棉口罩。这种说法正确吗？（ ）",
+        "answer": [
+            "对"
+        ],
+        "answerIds": [
+            "ff354016-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "f08c6868-1733-4b04-8313-a543f5fc4b63": {
+        "question": "机场净空区的作用是（）。",
+        "answer": [
+            "为飞机起降专用的"
+        ],
+        "answerIds": [
+            "ff2edac0-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c0c4fa5c-b153-46a7-a2f8-c148fc4c95cf": {
+        "question": "老师、同学介绍的工作肯定可信，这句话对吗？",
+        "answer": [
+            "不对，熟人介绍的相对靠谱，自己也还要多观察。"
+        ],
+        "answerIds": [
+            "ff6a7eae-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "bdb355a8-983d-4e36-be48-22c09cafa472": {
+        "question": "钱塘潮发生在什么时候？",
+        "answer": [
+            "每天都有"
+        ],
+        "answerIds": [
+            "ff3de76a-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c8b4ea00-ea81-40da-b7bf-d6eeb2ece6d1": {
+        "question": "地铁一旦着火，怎么办？",
+        "answer": [
+            "听从指挥，俯身捂住口鼻，背朝火源方向逃生。"
+        ],
+        "answerIds": [
+            "ff3587e2-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "e9092dd2-fc06-4d08-b300-05dad0f05ad8": {
+        "question": "下面关于游泳姿势，正确的是：",
+        "answer": [
+            "不规范的动作往往导致人用力不合理，有劲使不出，在陌生的水域容易出事。"
+        ],
+        "answerIds": [
+            "ff3dd507-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "efd00fc3-2b18-465f-be5d-f2f8abbbbcd7": {
+        "question": "扫黑除恶专项斗争“两个一律”：对涉黑涉恶犯罪案件，一律深挖其背后腐败问题。对黑恶势力“关系网”“保护伞”，一律（）、绝不姑息。",
+        "answer": [
+            "一查到底"
+        ],
+        "answerIds": [
+            "ff3c9700-2cab-41a7-a51d-98cca45ef0d7"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "e866e2ef-64f4-4743-b921-ea64ffcd8990": {
+        "question": "溺水者有心跳，但是呼吸微弱，意识模糊，应当：",
+        "answer": [
+            "立刻进行人工呼吸。"
+        ],
+        "answerIds": [
+            "ff516e5b-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "b4c31114-f499-4350-9471-307206efeb60": {
+        "question": "根据《电动自行车安全技术规范》（GB17761—2018）国家标准规定：电动自行车的最高时速为多少？空车质量最高为多少？",
+        "answer": [
+            "25公里/小时；55公斤"
+        ],
+        "answerIds": [
+            "b323bbea-1d55-41fa-bbb7-246df5a21ace"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "9a35fb2b-524c-46a9-86ea-0dcc8df64a4d": {
+        "question": "新型冠状病毒肺炎发病到入院的中位时间是（ ）",
+        "answer": [
+            "9天"
+        ],
+        "answerIds": [
+            "ff39333d-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "b7fd41c9-b232-4b4e-a9e8-d40f54f462b6": {
+        "question": "“2019新型冠状病毒”是SARS重来（ ）",
+        "answer": [
+            "错"
+        ],
+        "answerIds": [
+            "ff5c8d31-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "b4977389-f29e-44ae-8c80-9d873fa9054a": {
+        "question": "下车后，如果要到马路对面去，最好等车辆驶离后再过马路。",
+        "answer": [
+            "正确。"
+        ],
+        "answerIds": [
+            "ff5717c0-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c66efde7-3c95-4a1d-9e75-4dc37c64d6d1": {
+        "question": "被判无期徒刑的犯罪分子，实际执行（）以上，才可以假释。",
+        "answer": [
+            "10年"
+        ],
+        "answerIds": [
+            "ff8b9dd8-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "e28237d0-7443-4962-8aed-398a2e7f003d": {
+        "question": "小欢是一个刚入学的大学生，一天，她在图书馆里加了一个陌生男子的微信。通过交流，小欢知道这个叫“小乐”的人是“有钱人”：爸爸是银行行长，妈妈是有自己的公司，他已经在妈妈公司工作。此后，小乐带着她出入高档商场、出门游玩，花钱大方。确定恋爱关系后，小乐却变得更忙了，还总是借钱，小欢把自己准备交学费的10000元钱还有自己的生活费借给了他。之后，男子就不见了。经调查，这名男子是无业游民伪装成“有钱人”，以女学生为目标进行行骗。此案例中小欢都犯了哪些错误？",
+        "answer": [
+            "其他三个选项皆是。"
+        ],
+        "answerIds": [
+            "ff588002-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "a4b493b1-74d6-4e79-90ab-e05c94b2fa66": {
+        "question": "近距离1米以内接触疑似病例或临床诊断病例的人员，应佩戴（ ）",
+        "answer": [
+            "护目镜或防护面屏"
+        ],
+        "answerIds": [
+            "ff7669ac-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "bd5b2932-21c4-4a69-b79b-7d712fbb9a94": {
+        "question": "下列（ ）情况不属于密切接触者",
+        "answer": [
+            "诊疗、护理、探视病例时采取了有效的防护措施的医护人员"
+        ],
+        "answerIds": [
+            "ff5356bf-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "96ec26de-28a7-41a2-8c34-c838b517e807": {
+        "question": "新型冠状病毒感染的肺炎患者的临床表现为（ ）",
+        "answer": [
+            "以发热、乏力、干咳为主要表现"
+        ],
+        "answerIds": [
+            "ff6a4241-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "97e266fc-1b89-49bf-bb99-a4828b2f5ba6": {
+        "question": "乳铁蛋白能预防新型肺炎（ ）",
+        "answer": [
+            "错"
+        ],
+        "answerIds": [
+            "ff1cb582-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c9150fc4-a6cb-436e-9a63-ef3e376fafd9": {
+        "question": "结核病主要通过：",
+        "answer": [
+            "呼吸道传染。"
+        ],
+        "answerIds": [
+            "ff6e3fa0-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "eeda9b34-02aa-4ef1-9f47-1c110eead8ce": {
+        "question": "关于艾滋病，孕前、产前在医生指导下进行规范的母婴阻断，预防率可达：",
+        "answer": [
+            "95%以上"
+        ],
+        "answerIds": [
+            "a25513f6-87dd-4f49-bc37-585c6b5c1399"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "cf0b5ede-6cea-47e7-8d6d-b88d0e71e689": {
+        "question": "艾滋病是可以治疗的吗？",
+        "answer": [
+            "可以治疗，要定期吃药，控制病情。"
+        ],
+        "answerIds": [
+            "ff722918-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c79501d1-fdfa-45e5-8c2e-f077641c2eae": {
+        "question": "在我国发布的气象灾害预警信号中，哪些气象灾害会发布蓝、黄、橙、红四级预警信号。（）",
+        "answer": [
+            "台风、寒潮、暴雨、暴雪、大风。"
+        ],
+        "answerIds": [
+            "ff730991-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "f06869bb-522b-482b-908a-f873be689e65": {
+        "question": "以下关于戒毒过程的说法错误的是？",
+        "answer": [
+            "戒毒过程单纯依靠药物脱毒，也是可以顺利戒除毒瘾的。"
+        ],
+        "answerIds": [
+            "ff33dddb-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "98ad9d3b-68b9-4c70-815b-5d6111afd37b": {
+        "question": "新型冠状病毒肺炎可能的传播途径为（ ）传播",
+        "answer": [
+            "飞沫和接触"
+        ],
+        "answerIds": [
+            "ff7c5cda-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "e79e8609-5266-4dc4-af9e-18e160adb57d": {
+        "question": "独自出游途中，你发现包裹有被翻动的迹象，接下来该怎么办？",
+        "answer": [
+            "立刻报警，并与车上、机上工作人员取得联系。"
+        ],
+        "answerIds": [
+            "ff1a932b-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "c95db49a-192a-4e95-a2eb-1a8cb8e6db8d": {
+        "question": "用人单位与劳动者建立劳动关系应当订立（）。",
+        "answer": [
+            "书面劳动合同"
+        ],
+        "answerIds": [
+            "ff8d7eb3-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "d8907613-89b1-4e7e-b083-a5844a75e638": {
+        "question": "出血热的五期指的是哪五期？",
+        "answer": [
+            "发热期、低血压休克期、少尿期、多尿期及恢复期。"
+        ],
+        "answerIds": [
+            "ff8e3844-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
+    "e1df3812-0f0b-4ab7-9e3b-cea281596e89": {
+        "question": "灭火器的压力阀，正常状态时应该指向：",
+        "answer": [
+            "绿色区域"
+        ],
+        "answerIds": [
+            "85e96821-e356-4f53-b5e0-e294a2da6faf"
+        ],
+        "type": 1,
+        "typeLabel": "单选题"
+    },
     "f026683a-48e6-41d1-90e6-fad8d626e04c": {
         "question": "以下哪个选项不能体现盲人点灯的“三不伤害”原则？",
         "answer": [
@@ -27863,9 +28248,9 @@
             "吸毒人员是四类人员档案，终生存档，即吸毒人员永远都有复吸可能。"
         ],
         "answerIds": [
-            "ff63b72e-8fdc-11ed-a45a-6805cab01fc0",
-            "ff29fd33-8fdc-11ed-a45a-6805cab01fc0",
-            "ff5cdb5d-8fdc-11ed-a45a-6805cab01fc0"
+            "b648764e-ca17-4713-bd75-102e437d9cd2",
+            "bbb914dc-32fd-4e04-9470-a51a24993aa6",
+            "5bf95811-4f15-4262-847e-8fc732643f4d"
         ],
         "type": 2,
         "typeLabel": "多选题"
@@ -38346,6 +38731,352 @@
             "2afda24c-3a38-4f01-a301-4bfec903f28c",
             "f149db9f-bd03-442d-8d03-3d5fff890c85",
             "430a043b-5bd9-4769-aa6d-5ea99c886a57"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "ec21728d-75ac-494c-a24f-da66446c7fc8": {
+        "question": "根据目前对新冠状病毒的认识，下列那些措施适用于商场、火车站、地铁站你、飞机场等公共场所的防护（ ）",
+        "answer": [
+            "若发现新型冠状病毒的可疑症状者，要做好自身防护，然后劝阻其离开并去医院就医",
+            "增强公共物品和公共解除常用品和部位的清洁与消毒频次，做好清洁消毒记录和标志",
+            "保持公共场所内空气流通。保证空调系统和排气系统运转正常，定期清洗空调滤网，加强开窗通风换气"
+        ],
+        "answerIds": [
+            "e7f645f7-2a69-42df-8ee5-53c18e02aa50",
+            "00073f3d-601d-40f1-a392-13c1c3608637",
+            "3b4b8fc6-ed78-4a8f-a93e-6061d6823511"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "b382543b-cf5a-4605-a6dd-737ad11a48e8": {
+        "question": "在家里应做好哪些震前准备？",
+        "answer": [
+            "了解自家建筑的抗震等级和安全通道位置。",
+            "了解自家附近的应急避险地点在哪里。",
+            "组织家人进行快速撤离演习。"
+        ],
+        "answerIds": [
+            "ff3435cf-8fdc-11ed-a45a-6805cab01fc0",
+            "ff774a94-8fdc-11ed-a45a-6805cab01fc0",
+            "ff88f8dc-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "a52c7037-077a-4f78-be6f-658aba0bb4f7": {
+        "question": "正当防卫必须满足哪些要点？",
+        "answer": [
+            "必须是正在进行的不法侵害行为",
+            "只能针对不法侵害实施",
+            "必须针对不法侵害者本人实施",
+            "防卫程度不能超过必要的限度",
+            "防卫目的要是正当防卫意图，即为保护合法权益"
+        ],
+        "answerIds": [
+            "ff367b9b-8fdc-11ed-a45a-6805cab01fc0",
+            "ff1d133e-8fdc-11ed-a45a-6805cab01fc0",
+            "ff38027d-8fdc-11ed-a45a-6805cab01fc0",
+            "ff44dcdd-8fdc-11ed-a45a-6805cab01fc0",
+            "ff677bec-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "ad316ea3-64dc-442f-84ec-7bf2968cb7c7": {
+        "question": "维护文化安全面临的挑战有哪些？",
+        "answer": [
+            "我国经济社会处在转型时期，维护文化安全工作难度加大",
+            "信息技术迅速发展广泛普及，发展健康向上的网络文化任重道远",
+            "世界范围文化交流交融交锋日益频繁，开放环境下维护文化安全任务更加艰巨"
+        ],
+        "answerIds": [
+            "e56e7a02-6572-4923-9594-1911c037100b",
+            "7ffec84d-9b94-4dc8-b439-02b0b41686f7",
+            "49715586-636f-415f-84eb-c99b7dbd8d51"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "e229fa09-a934-4950-a2e0-abecb622be51": {
+        "question": "根据冠状病毒的化学特性，以下可有效灭活病毒的包括（ ）",
+        "answer": [
+            "56度以上高温（30分钟）",
+            "乙醚、75%乙醇",
+            "含氯消毒剂",
+            "过氧乙酸"
+        ],
+        "answerIds": [
+            "ff4b8578-8fdc-11ed-a45a-6805cab01fc0",
+            "ff71924a-8fdc-11ed-a45a-6805cab01fc0",
+            "ff99e1d3-8fdc-11ed-a45a-6805cab01fc0",
+            "ff45a355-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "962de1d5-2e28-49a4-8c41-9ca2254b77ed": {
+        "question": "公众预防新型冠状病毒感染的肺炎的措施有：（ ）、杜绝捕猎、贩卖、购买、加工、食用野生动物。",
+        "answer": [
+            "保持手卫生",
+            "保持室内空气的流通",
+            "医院就诊或陪护就医时,一定要佩戴好合适的口罩",
+            "良好安全饮食习惯"
+        ],
+        "answerIds": [
+            "ff54b558-8fdc-11ed-a45a-6805cab01fc0",
+            "ff1b6ceb-8fdc-11ed-a45a-6805cab01fc0",
+            "ff98d361-8fdc-11ed-a45a-6805cab01fc0",
+            "ff1f0189-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "efdec72e-dd1b-4f57-af48-2c13bafdbd87": {
+        "question": "下面哪些是网络兼职传销常用广告语？",
+        "answer": [
+            "亲，入职是免费，现在交这个钱是马甲认证金。",
+            "网络兼职！在家赚钱！白领、学生、全职妈妈！",
+            "兼职工作种类非常多，日结工资，时间灵活，报酬丰厚。",
+            "如果嫌麻烦，可以直接升级为高级会员啊！不仅可以跳过培训，直接工作，佣金还会比普通会员增加20%！"
+        ],
+        "answerIds": [
+            "ff556f78-8fdc-11ed-a45a-6805cab01fc0",
+            "ff6b2898-8fdc-11ed-a45a-6805cab01fc0",
+            "ff6dcd7b-8fdc-11ed-a45a-6805cab01fc0",
+            "ff5aa223-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "dc1fa436-3dc4-43fc-9ab1-e491a7179d56": {
+        "question": "抑郁症患者的症状可能有？",
+        "answer": [
+            "心情低落，与处境不相符",
+            "悲痛欲绝，甚至木僵",
+            "明显的焦虑和运动性激越",
+            "自伤、自杀"
+        ],
+        "answerIds": [
+            "ff557fdd-8fdc-11ed-a45a-6805cab01fc0",
+            "ff482bee-8fdc-11ed-a45a-6805cab01fc0",
+            "ff81d723-8fdc-11ed-a45a-6805cab01fc0",
+            "ff1b914b-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "e4e2208e-4da6-4da5-8173-73c400d98d63": {
+        "question": "新型冠状病毒感染症状（ ）",
+        "answer": [
+            "呼吸频率加快，甚至困难",
+            "咳嗽，干咳为主",
+            "发烧，严重者持续72小时以上",
+            "精神差食欲差"
+        ],
+        "answerIds": [
+            "ff5a4fa6-8fdc-11ed-a45a-6805cab01fc0",
+            "ff533554-8fdc-11ed-a45a-6805cab01fc0",
+            "ff2d6c3d-8fdc-11ed-a45a-6805cab01fc0",
+            "ff79f68f-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "ddd7d32f-539b-4050-9d9a-8c51be84ad92": {
+        "question": "新型冠状病毒临床表现为（ ）",
+        "answer": [
+            "发热",
+            "乏力",
+            "呼吸道症状为干咳为主",
+            "逐渐出现呼吸困难，严重者表现为急性呼吸窘迫综合症、脓毒症休克、难以纠正的代谢性酸中毒和出凝血功能障碍"
+        ],
+        "answerIds": [
+            "ff5a86e7-8fdc-11ed-a45a-6805cab01fc0",
+            "ff365015-8fdc-11ed-a45a-6805cab01fc0",
+            "ff84f9cf-8fdc-11ed-a45a-6805cab01fc0",
+            "ff65cdac-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "c1e24426-4f95-4293-be46-1668e3720610": {
+        "question": "关于新型冠状病毒，下列说法正确的有（ ）",
+        "answer": [
+            "冠状病毒因外形类似王冠而得名",
+            "它是广泛存在的一类容易变异的病毒",
+            "常见冠状病毒仅感染脊椎动物",
+            "它能引起人和动物呼吸道、消化道和神经系统疾病"
+        ],
+        "answerIds": [
+            "ff63f22c-8fdc-11ed-a45a-6805cab01fc0",
+            "ff9306ec-8fdc-11ed-a45a-6805cab01fc0",
+            "ff8b722c-8fdc-11ed-a45a-6805cab01fc0",
+            "ff631038-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "ad5f4a45-af26-4f41-8b85-135e8105eb96": {
+        "question": "党的十九大报告提出,“使人民（）、（）、（）更加充实、更有保障、更可持续”。",
+        "answer": [
+            "获得感",
+            "幸福感",
+            "安全感"
+        ],
+        "answerIds": [
+            "ff65a887-8fdc-11ed-a45a-6805cab01fc0",
+            "ff2e80b2-8fdc-11ed-a45a-6805cab01fc0",
+            "ff8bf62e-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "a71a7f66-55c2-4753-9730-7df5ca316d3d": {
+        "question": "疫情期间去就医，需要注意哪些事项？（）",
+        "answer": [
+            "开私家车",
+            "戴好口罩",
+            "拨打120等待急救车辆"
+        ],
+        "answerIds": [
+            "ff6879aa-8fdc-11ed-a45a-6805cab01fc0",
+            "ff31126f-8fdc-11ed-a45a-6805cab01fc0",
+            "ff72080c-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "d3fec176-a283-488f-9a08-86a622ab261c": {
+        "question": "使用灭火器的时候应该注意什么？（）",
+        "answer": [
+            "站在上风向灭火。",
+            "对准燃烧点根部喷射。"
+        ],
+        "answerIds": [
+            "ff6afe19-8fdc-11ed-a45a-6805cab01fc0",
+            "ff681728-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "cf1b99b3-ba09-4958-ab50-10a27e8437da": {
+        "question": "新型冠状病毒，我们应如何应对（ ）",
+        "answer": [
+            "做饭要做熟",
+            "生熟要分开",
+            "慎摸动物",
+            "妥善放垃圾"
+        ],
+        "answerIds": [
+            "ff6b80f0-8fdc-11ed-a45a-6805cab01fc0",
+            "ff6da186-8fdc-11ed-a45a-6805cab01fc0",
+            "ff2ea950-8fdc-11ed-a45a-6805cab01fc0",
+            "ff862416-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "fe9f9057-9899-44e3-a934-6d221f16de33": {
+        "question": "下面地点有可能引发踩踏的是：",
+        "answer": [
+            "中午下课时的教学楼。",
+            "促销活动场所。",
+            "明星签售会。"
+        ],
+        "answerIds": [
+            "ff6fb65b-8fdc-11ed-a45a-6805cab01fc0",
+            "ff397785-8fdc-11ed-a45a-6805cab01fc0",
+            "ff8918c4-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "eafd968c-8d46-410a-93fb-caec71ac85b4": {
+        "question": "法律制裁的种类包括（）。",
+        "answer": [
+            "民事制裁",
+            "刑事制裁",
+            "行政制裁"
+        ],
+        "answerIds": [
+            "ff490405-8fdc-11ed-a45a-6805cab01fc0",
+            "ff1a8e36-8fdc-11ed-a45a-6805cab01fc0",
+            "ff651067-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "f14598d6-92c3-4e46-8000-cd731a7348d2": {
+        "question": "专利权的客体包括（）。",
+        "answer": [
+            "发明",
+            "实用新型",
+            "外型设计"
+        ],
+        "answerIds": [
+            "ff7e7daf-8fdc-11ed-a45a-6805cab01fc0",
+            "ff46a1bf-8fdc-11ed-a45a-6805cab01fc0",
+            "ff4c458e-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "d9986773-6e90-4f89-8445-7b5da0eb5aa2": {
+        "question": "如何挂失自己的手机号？（）",
+        "answer": [
+            "拨打运营商电话",
+            "去营业厅办理"
+        ],
+        "answerIds": [
+            "ff829b69-8fdc-11ed-a45a-6805cab01fc0",
+            "ff563657-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "caccc7ea-b8dc-4d25-94b4-3c25660f1827": {
+        "question": "使用绷带的包扎方法有（）。",
+        "answer": [
+            "环形包扎法",
+            "螺旋包扎法",
+            "回返式包扎法",
+            "8字环绕包扎法"
+        ],
+        "answerIds": [
+            "ff8adf17-8fdc-11ed-a45a-6805cab01fc0",
+            "ff255821-8fdc-11ed-a45a-6805cab01fc0",
+            "ff8d5786-8fdc-11ed-a45a-6805cab01fc0",
+            "ff99a0bc-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "f0bf18a4-c46e-4fd2-bcfa-d2c1e7e712f7": {
+        "question": "出现神经性厌食时，可以采取（）的方法进行调节。",
+        "answer": [
+            "调整饮食结构，规律饮食",
+            "适当吃一些健胃消食片或山楂片",
+            "尽量吃清淡一点的饭菜"
+        ],
+        "answerIds": [
+            "ff8ea4f3-8fdc-11ed-a45a-6805cab01fc0",
+            "ff5b08fc-8fdc-11ed-a45a-6805cab01fc0",
+            "ff87cee1-8fdc-11ed-a45a-6805cab01fc0"
+        ],
+        "type": 2,
+        "typeLabel": "多选题"
+    },
+    "d0a7f2a9-53e9-4abd-8b1e-9eb32376261b": {
+        "question": "寒暑假很多大学生为了图省事和方便，选择结伴包车回家，如果包车应该怎么做呢？",
+        "answer": [
+            "要到正规的企业签订包租协议。",
+            "不要包租非法营运的车辆。"
+        ],
+        "answerIds": [
+            "ff586a55-8fdc-11ed-a45a-6805cab01fc0",
+            "ff547bda-8fdc-11ed-a45a-6805cab01fc0"
         ],
         "type": 2,
         "typeLabel": "多选题"
