@@ -622,7 +622,7 @@ htmlContent_Tail = r'''
 '''
 
 def loadQuestionsBankData():
-    with open("Wei-ban_Questions_Bank.json", "r+", encoding='utf8') as file:return json.load(file)
+    with open("Wei-ban_Questions_Bank.v2.json", "r+", encoding='utf8') as file:return json.load(file)
 
 def exportAsMd():
     global mdContent_1, mdContent_2
@@ -630,7 +630,7 @@ def exportAsMd():
     num = 1
     for value in data.values():
         question = value['question']
-        answer = ' \| '.join(value['answer'])
+        answer = ' | '.join(value['answers'])
         if value['type'] == 1:mdContent_1 += f"| {num} | {question} | {answer} |\n"
         elif value['type'] == 2:mdContent_2 += f"| {num} | {question} | {answer} |\n"
         num += 1
@@ -645,7 +645,7 @@ def exportAsHtml():
     num = 1
     for value in data.values():
         question = value['question']
-        answer = ' </span><span>|</span><span> '.join(value['answer'])
+        answer = ' </span><span>|</span><span> '.join(value['answers'])
         if value['type'] == 1:htmlContent_Head += f"<tr><td><span>{num}</span></td><td><span>{question}</span></td><td><span>{answer}</span></td></tr>"
         elif value['type'] == 2:htmlContent_Middle += f"<tr><td><span>{num}</span></td><td><span>{question}</span></td><td><span>{answer}</span></td></tr>"
         num += 1

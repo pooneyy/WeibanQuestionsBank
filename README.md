@@ -12,8 +12,6 @@
 
 为了完善本题库，期望能得到你的帮助！在此表示万分感谢。
 
-此外，有相当多内容雷同的条目，但是它们的id不同，以id作为唯一标识，故视作不同的条目，例如`be6c8cdd-458c-4597-bc68-1762176ace30`与`0c443332-f65b-4b58-aadc-23fb9af6a805`。
-
 ### 查看题库
 
 [markdown](https://github.com/pooneyy/weibanQuestionsBank/blob/main/weibanQuestionBank.md)、[html](http://htmlpreview.github.io/?https://github.com/pooneyy/weibanQuestionsBank/blob/main/weibanQuestionBank.html)
@@ -26,7 +24,7 @@
 
 - 方式二：通过现有的作答记录
 
-  - 作答记录形如[data.json](https://github.com/pooneyy/weibanQuestionsBank/blob/master/data.json)，获取方式，登录[安全微伴](http://weiban.mycourse.cn/)，
+  - 作答记录形如[data.json](https://github.com/pooneyy/weibanQuestionsBank/blob/main/data)，获取方式，登录[安全微伴](http://weiban.mycourse.cn/)，
 
   - 点击进入课程详情，以“新生安全教育”为例
 
@@ -55,6 +53,8 @@
   - 支持从已结束的学习项目导入作答记录
 - 2023.12.10
   - 修复`importData.py`在某些情况下无法正确获取作答记录的问题
+- 2024.08.09
+  - 改变了题库的记录方式，以题干与答案作为题目特征，引入`fuzzywuzzy`库做文本相似性检验。
 
 ### 题库更新日志
 

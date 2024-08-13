@@ -3,14 +3,14 @@ import Utils
 
 def loadData():
     try:
-        with open("Wei-ban_Questions_Bank.json", "r+", encoding='utf8') as file:
+        with open("Wei-ban_Questions_Bank.v2.json", "r+", encoding='utf8') as file:
             data = json.load(file)
     except:data = {}
     return data
 
 def saveData(data):
-    data = dict(sorted(data.items(), key=lambda item: item[1]['type']))
-    with open("Wei-ban_Questions_Bank.json", "w", encoding="utf8") as file:
+    data = dict(sorted(data.items(), key=lambda item: (item[1]['type'], item[0])))
+    with open("Wei-ban_Questions_Bank.v2.json", "w", encoding="utf8") as file:
         json.dump(data, file, ensure_ascii=False, indent = 4)
 
 def main():
@@ -18,7 +18,7 @@ def main():
     dataBeforeLength = len(questionsBank)
     while True:
         try:
-            questionsBank.update(Utils.getUserQuestionsBank()) # 合并字典
+            questionsBank = Utils.advancedMerge(questionsBank, Utils.getUserQuestionsBank())
         except KeyboardInterrupt:
             dataAfterLength = len(questionsBank)
             updateQuantity = dataAfterLength - dataBeforeLength

@@ -3,6 +3,7 @@ from PIL import Image
 import json
 import requests
 import time
+from fuzzywuzzy import fuzz
 
 # From https://github.com/JefferyHcool/weibanbot/blob/main/enco.py
 from Cryptodome.Cipher import AES
@@ -12,6 +13,8 @@ import base64
 
 DEFAULT_SCHOOL_NAME = ''
 '''这个常量的作用是暂存学校名，当同时输入的多个帐号来自同一个学校，用此避免重复地输入学校名'''
+
+SIMILARITY_THRESHOLD = 80 # 相似性阈值
 
 class Parse:
     headers = {}
@@ -89,16 +92,15 @@ class Parse:
             response = requests.post(url, data=payload, headers=self.headers)
             data = json.loads(response.text)['data']
             for i in data['questions']:
-                userQuestionsBank[i['id']] = {}
-                userQuestionsBank[i['id']]['question'] = i['title']
-                userQuestionsBank[i['id']]['answer'] = []
-                userQuestionsBank[i['id']]['answerIds'] = []
-                userQuestionsBank[i['id']]['type'] = i['type']
-                userQuestionsBank[i['id']]['typeLabel'] = i['typeLabel']
-                for j in i['optionList']:
-                    if j['isCorrect'] == 1:
-                        userQuestionsBank[i['id']]['answer'].append(j['content'])
-                        userQuestionsBank[i['id']]['answerIds'].append(j['id'])
+                feature = []
+                feature.append(i['title'])
+                feature.extend([j['content'] for j in i['optionList'] if j['isCorrect'] == 1])
+                feature = ''.join(feature)
+                userQuestionsBank[feature] = {}
+                userQuestionsBank[feature]['question'] = i['title']
+                userQuestionsBank[feature]['answers'] = [j['content'] for j in i['optionList'] if j['isCorrect'] == 1]
+                userQuestionsBank[feature]['type'] = i['type']
+                userQuestionsBank[feature]['typeLabel'] = i['typeLabel']
         return userQuestionsBank
 
 def fill_key(key):
@@ -219,3 +221,20 @@ def getUserQuestionsBank():
         userQuestionsBank = questionsBankParse.getPaperDetails()
     print(f"从 {account['id']} 的账户中导入 {len(userQuestionsBank)} 条答题记录。请接着",end='')
     return userQuestionsBank
+
+def advancedMerge(old : dict, new : dict) -> dict:
+    '''
+    高级合并字典
+    
+    对比字典 new 与 old ，如果 new 中有键与 old 中的键相似度大于 SIMILARITY_THRESHOLD
+    
+    则删除 old 中对应的键，并将 new 中的键值对添加到 old 中
+    
+    使用 fuzz.token_set_ratio 进行比较
+    '''
+    for new_key in list(new.keys()):
+        for old_key in list(old.keys()):
+            if fuzz.token_set_ratio(new_key, old_key) > SIMILARITY_THRESHOLD:
+                del old[old_key]
+    old.update(new)
+    return old
