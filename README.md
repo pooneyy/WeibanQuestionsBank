@@ -6,7 +6,7 @@
 相关项目：安全微伴题库 | [安全微伴自动刷课助手](https://github.com/pooneyy/weiban-tool)
 
 ### 写在前面的话
-克隆项目到本地，你获取到的题目信息将会与`Wei-ban_Questions_Bank.json`合并。希望你能将更新后的题库[Pull requests](https://github.com/pooneyy/weibanQuestionsBank/pulls)提交到本仓库。
+克隆项目到本地，你获取到的题目信息将会与`Wei-ban_Questions_Bank.v2.json`合并。希望你能将更新后的题库[Pull requests](https://github.com/pooneyy/weibanQuestionsBank/pulls)提交到本仓库。
 
 如果你没有github账户，或者不知道如何提交PR，你可以向邮箱 jiadeland@gmail.com 致信，贡献你的作答明细。
 
@@ -76,3 +76,6 @@
   - 新增了 16 个条目，现有条目 3149 项。
 - 2024.06.03
   - 新增了 15 个条目，现有条目 3164 项。
+- 2024.08.14
+  - 安全微伴当前获取的作答记录将不再包含题目ID与选项ID，本次更新改变了题库的记录方式，以题干与答案作为题目特征。
+  - 合并了一些内容重复的条目，现有条目 2449 项。
