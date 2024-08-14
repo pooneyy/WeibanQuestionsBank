@@ -18,7 +18,7 @@ def loadQuestionsBankData():
     return data
 
 def saveData(data):
-    data = dict(sorted(data.items(), key=lambda item: item[1]['type']))
+    data = dict(sorted(data.items(), key=lambda item: (item[1]['type'], item[0])))
     with open("Wei-ban_Questions_Bank.v2.json", "w", encoding="utf8") as file:
         json.dump(data, file, ensure_ascii=False, indent = 4)
 
